@@ -9,8 +9,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hmzaSaleem&theme=vue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=hmzaSaleem&icon=0&color=8)](https://visitcount.itsvg.in)
-
 ## 🤝🏻 &nbsp;Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/hmzasaleem"><img src="https://img.shields.io/badge/-Hamza%20Saleem-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
